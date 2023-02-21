@@ -1,0 +1,15 @@
+C:\mf\TemplateBackend.git\DataAccess\bin\Release\netstandard2.0\DataAccess.deps.json
+C:\mf\TemplateBackend.git\DataAccess\bin\Release\netstandard2.0\DataAccess.dll
+C:\mf\TemplateBackend.git\DataAccess\bin\Release\netstandard2.0\DataAccess.pdb
+C:\mf\TemplateBackend.git\DataAccess\bin\Release\netstandard2.0\Core.dll
+C:\mf\TemplateBackend.git\DataAccess\bin\Release\netstandard2.0\Entities.dll
+C:\mf\TemplateBackend.git\DataAccess\bin\Release\netstandard2.0\Core.pdb
+C:\mf\TemplateBackend.git\DataAccess\bin\Release\netstandard2.0\Entities.pdb
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.dll
+C:\mf\TemplateBackend.git\DataAccess\obj\Release\netstandard2.0\DataAccess.pdb
