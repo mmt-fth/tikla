@@ -1,0 +1,10 @@
+C:\mf\TemplateBackend.git\Core\bin\Release\netstandard2.0\Core.deps.json
+C:\mf\TemplateBackend.git\Core\bin\Release\netstandard2.0\Core.dll
+C:\mf\TemplateBackend.git\Core\bin\Release\netstandard2.0\Core.pdb
+C:\mf\TemplateBackend.git\Core\obj\Release\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\mf\TemplateBackend.git\Core\obj\Release\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\mf\TemplateBackend.git\Core\obj\Release\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\mf\TemplateBackend.git\Core\obj\Release\netstandard2.0\Core.AssemblyInfo.cs
+C:\mf\TemplateBackend.git\Core\obj\Release\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\mf\TemplateBackend.git\Core\obj\Release\netstandard2.0\Core.dll
+C:\mf\TemplateBackend.git\Core\obj\Release\netstandard2.0\Core.pdb
