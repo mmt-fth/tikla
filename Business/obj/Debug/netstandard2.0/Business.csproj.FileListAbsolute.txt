@@ -1,0 +1,33 @@
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Business.dll
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Core.dll
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\mf\TemplateBackend.git\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.dll
+C:\mf\TemplateBackend.git\Business\obj\Debug\netstandard2.0\Business.pdb
