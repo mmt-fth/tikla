@@ -1,0 +1,25 @@
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Mefab\Desktop\PROJE ÇALİŞMA DOSYASİ\btk dersleri\e ticaret kamp\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\mf\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\mf\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\mf\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\mf\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\mf\TemplateBackend.git\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\mf\TemplateBackend.git\Entities\obj\Debug\netstandard2.0\Entities.pdb
